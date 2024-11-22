@@ -1,0 +1,15 @@
+.input-cluster.svelte-erdmfs.svelte-erdmfs {
+    margin-bottom:.75rem;
+    display:flex;
+flex-direction:column}
+
+.input-cluster.svelte-erdmfs>label.svelte-erdmfs {
+    font-size:1.25rem;
+    line-height:1.75rem;
+font-weight:600}
+
+.input-cluster.svelte-erdmfs>input.svelte-erdmfs,textarea.svelte-erdmfs.svelte-erdmfs {
+    border-radius:.125rem;
+    --tw-bg-opacity:1;
+    background-color:rgb(50 56 70 / var(--tw-bg-opacity));
+padding:.75rem}
